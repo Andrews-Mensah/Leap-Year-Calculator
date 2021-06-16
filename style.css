@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background: rgb(246, 246, 249);
+    height: 100%;
+    width: auto;
+}
+
+.heading {
+    align-items: center;
+    text-align: center;
+    margin: 3rem;
+    padding: 3rem;
+}
+
+
+form {
+    align-items: center;
+    text-align: center;
+    margin: 3rem;
+    padding: 1.5rem;
+    
+}
+
+form input {
+    margin: 1.5rem;
+    padding: 1rem;
+}
+
+#year {
+    width: 30rem;
+    height: 1.5rem;
+}
+
+
+#reset {
+    width: 7rem;
+    height: 1rem;
+    text-align: center;
+}
+
+#reset:hover{
+    background-color: bisque;
+    color: black;
+    font-size: 1rem;
+    text-align: center;
+}
+
+#btn {
+    width: 7rem;
+    height: 1.5rem;
+}
+
+#btn:hover{
+    background-color: bisque;
+    color: black;
+    font-size: 1rem;
+    text-align: center;
+}
