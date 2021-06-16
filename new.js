@@ -12,7 +12,7 @@ let leapYearCalc = () => {
         }
 
         else {
-            document.querySelector('p').innerHTML = "The year" + year + "is not a leap year";
+            document.querySelector('p').innerHTML = "The year" +" "+ year + " " + "is not a leap year";
 
         }
     }
@@ -22,7 +22,7 @@ let leapYearCalc = () => {
 
 const btn = document.getElementById ("btn");
 
-btn.addEventListener("mouseup", (e) => {leapYearCalc()
+btn.addEventListener("click", (e) => {leapYearCalc()
 
     console.log(e);
 
