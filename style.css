@@ -22,9 +22,9 @@ body {
 .heading {
     align-items: center;
     text-align: center;
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
-    padding: 3rem;
+    padding: 1rem;
 }
 
 
@@ -35,7 +35,7 @@ form {
 }
 
 form input {
-    margin: 1.5rem;
+    margin: 1rem;
     padding: 1rem;
 }
 
@@ -47,7 +47,7 @@ form input {
 
 #reset {
     width: 7rem;
-    height: 0.5rem;
+    height: 3rem;
     text-align: center;
 }
 
